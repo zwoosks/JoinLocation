@@ -1,0 +1,4 @@
+# Config file
+mustBePlayer: "&cYou must be a player to perform that command!"
+noLocationDefined: "&cThere's no location defined to teleport you."
+noPerms: "You don't have permissions to execute this command! (Perm: %perm%)"

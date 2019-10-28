@@ -1,0 +1,13 @@
+name: LocationManager
+main: me.zwoosks.Main
+version: 1.0
+author: zwoosks
+commands:
+   setworld:
+      description: Set the location where players will spawn.
+      usage: /<command>
+      aliases: [setlocation]
+   worldmanagerauthor:
+      description: Author of the plugin.
+      usage: /<command>
+      aliases: [zwoosks]
